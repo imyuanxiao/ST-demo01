@@ -4,7 +4,7 @@ public class c {
     public static void main(String[] args) {
         System.out.println("hellosds 1");
         System.out.println("world");
-        System.out.println("fdfdprin");
+        System.out.println("fdfdprinsssssss");
         System.out.println("springsds  2");
     }
 
