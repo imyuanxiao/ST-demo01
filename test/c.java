@@ -7,4 +7,8 @@ public class c {
         System.out.println("springsds");
     }
 
+    public void save(){
+        System.out.println("double");
+    }
+
 }
