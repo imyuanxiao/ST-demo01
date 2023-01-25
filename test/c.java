@@ -2,13 +2,13 @@ package test;
 
 public class c {
     public static void main(String[] args) {
-        System.out.println("hellosds");
+        System.out.println("hellosds 1");
         System.out.println("world");
-        System.out.println("springsds");
+        System.out.println("springsds  2");
     }
 
     public void save(){
-        System.out.println("double");
+        System.out.println("double 3");
     }
 
 }
