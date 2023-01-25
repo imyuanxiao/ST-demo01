@@ -12,4 +12,8 @@ public class c {
         System.out.println("double 3");
     }
 
+    public void get(){
+        System.out.println("get");
+    }
+
 }
