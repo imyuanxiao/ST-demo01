@@ -1,17 +1,14 @@
 package test;
 
+import test.entity.Dog;
+
 public class c {
-    public static void main(String[] args) {
-        System.out.println("after merge");
-        System.out.println("after merge2");
-    }
 
-    public void save(){
-        System.out.println("double 3");
-    }
+    double x, y, ground, canjump, speed, onplat, t3;
 
-    public void get(){
-        System.out.println("get");
+    public static void main(String[] args) throws Exception {
+        Dog dog = (Dog)Class.forName("test.entity.Dog").getDeclaredConstructor().newInstance();
+        dog.run();
     }
 
 }
