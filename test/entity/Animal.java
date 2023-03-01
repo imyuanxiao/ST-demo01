@@ -2,8 +2,6 @@ package test.entity;
 
 public class Animal {
 
-    private int age;
-    
     private int x;
     private int y;
     private int size;
