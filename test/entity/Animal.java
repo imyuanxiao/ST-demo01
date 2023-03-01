@@ -2,6 +2,8 @@ package test.entity;
 
 public class Animal {
 
+    private int age;
+    private String name;
     private int x;
     private int y;
     private int size;
